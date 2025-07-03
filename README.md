@@ -29,12 +29,9 @@
     }
 
     header img {
-      width: 150px;
-      height: 150px;
-      object-fit: cover;
-      border-radius: 50%;
-      border: 4px solid white;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+      object-fitcocoverocover;
+
+      box-shadowadowadowadowadowadowadaaadowadowadowadowadowadowadaadowadowadowadowadowadowadadowadowadowadowadowadowadowadow: 0 4px 10px rgba(0,0,0,0.3);
       animation: float 3s ease-in-out infinite;
     }
 
